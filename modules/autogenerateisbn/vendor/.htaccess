@@ -1,0 +1,5 @@
+<Files "autoload.php">
+    Allow from all
+</Files>
+Deny from all
+

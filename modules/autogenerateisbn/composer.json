@@ -1,0 +1,11 @@
+{
+    "name": "yourvendor/autogenerateisbn",
+    "autoload": {
+      "psr-4": {
+        "YourVendor\\AutoGenerateISBN\\": "src/"
+      }
+    },
+    "require": {
+      "php": ">=7.4"
+    }
+  }

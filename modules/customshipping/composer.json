@@ -1,0 +1,11 @@
+{
+    "name": "yourvendor/customshipping",
+    "autoload": {
+      "psr-4": {
+        "YourVendor\\CustomShipping\\": "src/"
+      }
+    },
+    "require": {
+      "php": ">=7.4"
+    }
+  }
