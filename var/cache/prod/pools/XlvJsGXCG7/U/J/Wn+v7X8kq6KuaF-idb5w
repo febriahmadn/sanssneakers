@@ -1,0 +1,44 @@
+<?php //PrestaShopBundle%255CController%255CAdmin%255CSell%255COrder%255COrderController%2523sendMessageAction
+
+return [PHP_INT_MAX, static function () { return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+    $o = [
+        clone (($p = &\Symfony\Component\VarExporter\Internal\Registry::$prototypes)['PrestaShopBundle\\Security\\Annotation\\AdminSecurity'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('PrestaShopBundle\\Security\\Annotation\\AdminSecurity')),
+        clone ($p['PrestaShopBundle\\Security\\Annotation\\DemoRestricted'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('PrestaShopBundle\\Security\\Annotation\\DemoRestricted')),
+    ],
+    null,
+    [
+        'Sensio\\Bundle\\FrameworkExtraBundle\\Configuration\\Security' => [
+            'expression' => [
+                'is_granted(\'update\', request.get(\'_legacy_controller\'))',
+            ],
+            'message' => [
+                'You do not have permission to edit this.',
+            ],
+        ],
+        'PrestaShopBundle\\Security\\Annotation\\AdminSecurity' => [
+            'redirectRoute' => [
+                'admin_orders_view',
+            ],
+            'redirectQueryParamsToKeep' => [
+                [
+                    'orderId',
+                ],
+            ],
+        ],
+        'PrestaShopBundle\\Security\\Annotation\\DemoRestricted' => [
+            'redirectRoute' => [
+                1 => 'admin_orders_view',
+            ],
+            'redirectQueryParamsToKeep' => [
+                1 => [
+                    'orderId',
+                ],
+            ],
+        ],
+    ],
+    [
+        $o[0],
+        $o[1],
+    ],
+    []
+); }];

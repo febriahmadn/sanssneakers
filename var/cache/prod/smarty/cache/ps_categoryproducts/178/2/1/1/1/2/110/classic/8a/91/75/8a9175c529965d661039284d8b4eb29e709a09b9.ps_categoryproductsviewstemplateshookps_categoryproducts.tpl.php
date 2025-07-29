@@ -1,0 +1,1189 @@
+<?php
+/* Smarty version 4.3.4, created on 2025-03-15 01:42:25
+  from 'module:ps_categoryproductsviewstemplateshookps_categoryproducts.tpl' */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '4.3.4',
+  'unifunc' => 'content_67d47891c49b59_82820344',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '39d31a599d73c039735add7bd5dc7a2a3a72c0ba' => 
+    array (
+      0 => 'module:ps_categoryproductsviewstemplateshookps_categoryproducts.tpl',
+      1 => 1708941642,
+      2 => 'module',
+    ),
+    '94c5245008a59c85bacf6387772524b09d20b422' => 
+    array (
+      0 => '/home/u1573007/public_html/themes/classic/templates/catalog/_partials/productlist.tpl',
+      1 => 1708941642,
+      2 => 'file',
+    ),
+    '572b7282064ac0bc9904beaaf2d3dac5c8e675a8' => 
+    array (
+      0 => '/home/u1573007/public_html/themes/classic/templates/catalog/_partials/miniatures/product.tpl',
+      1 => 1708941642,
+      2 => 'file',
+    ),
+    '949bdf465ee3fd75542cb1f6832f51cebbc9928e' => 
+    array (
+      0 => '/home/u1573007/public_html/themes/classic/templates/catalog/_partials/product-flags.tpl',
+      1 => 1708941642,
+      2 => 'file',
+    ),
+  ),
+  'cache_lifetime' => 31536000,
+),true)) {
+function content_67d47891c49b59_82820344 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
+  'renderLogo' => 
+  array (
+    'compiled_filepath' => '/home/u1573007/public_html/var/cache/prod/smarty/compile/classiclayouts_layout_full_width_tpl/3a/17/ef/3a17efb45268edc4f6254162822dd755416c84a5_2.file.helpers.tpl.php',
+    'uid' => '3a17efb45268edc4f6254162822dd755416c84a5',
+    'call_name' => 'smarty_template_function_renderLogo_59297989967d44a9e3ca039_20464405',
+  ),
+));
+?><section class="featured-products clearfix mt-3">
+  <h2>
+          16 other products in the same category:
+      </h2>
+  
+
+<div class="products">
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="21" data-id-product-attribute="417">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/21-417-off-white-x-nike-kobe-5-protro-custom-white-by-mamba-concepts.html#/1-nike_size-mens_us6_eu385" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/127-home_default/off-white-x-nike-kobe-5-protro-custom-white-by-mamba-concepts.jpg"
+                  alt="Off-White x Nike Kobe 5 Protro Custom White - Limited Edition Sneaker"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/127-large_default/off-white-x-nike-kobe-5-protro-custom-white-by-mamba-concepts.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/21-417-off-white-x-nike-kobe-5-protro-custom-white-by-mamba-concepts.html#/1-nike_size-mens_us6_eu385" content="https://sanssneakers.com/home/21-417-off-white-x-nike-kobe-5-protro-custom-white-by-mamba-concepts.html#/1-nike_size-mens_us6_eu385">Off-White x Nike Kobe 5...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $160.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="21" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="140" data-id-product-attribute="4009">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/140-4009-asics-gel-lyte-3-iii-og-30th-anniversary-piedmont-grey-suede.html#/68-asics_size-mens_us4_eu36" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/831-home_default/asics-gel-lyte-3-iii-og-30th-anniversary-piedmont-grey-suede.jpg"
+                  alt="ASICS Gel-Lyte III OG 30th Anniversary &#039;Piedmont Grey Suede&#039; | Premium Comfort &amp; Heritage"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/831-large_default/asics-gel-lyte-3-iii-og-30th-anniversary-piedmont-grey-suede.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/140-4009-asics-gel-lyte-3-iii-og-30th-anniversary-piedmont-grey-suede.html#/68-asics_size-mens_us4_eu36" content="https://sanssneakers.com/home/140-4009-asics-gel-lyte-3-iii-og-30th-anniversary-piedmont-grey-suede.html#/68-asics_size-mens_us4_eu36">Asics Gel Lyte 3 III OG...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $140.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="140" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="142" data-id-product-attribute="4079">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/142-4079-packer-x-asics-us-open-x-asics-gel-lyte-3-gamesetmatch-.html#/68-asics_size-mens_us4_eu36" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/843-home_default/packer-x-asics-us-open-x-asics-gel-lyte-3-gamesetmatch-.jpg"
+                  alt="Packer x ASICS US Open x Gel-Lyte III &#039;Game. Set. Match.&#039; | Limited Edition Sneakers"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/843-large_default/packer-x-asics-us-open-x-asics-gel-lyte-3-gamesetmatch-.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/142-4079-packer-x-asics-us-open-x-asics-gel-lyte-3-gamesetmatch-.html#/68-asics_size-mens_us4_eu36" content="https://sanssneakers.com/home/142-4079-packer-x-asics-us-open-x-asics-gel-lyte-3-gamesetmatch-.html#/68-asics_size-mens_us4_eu36">Packer x ASICS US Open x...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $150.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="142" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="132" data-id-product-attribute="3729">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/132-3729-asics-gel-lyte-3-og-misty-pine-seafoam-.html#/68-asics_size-mens_us4_eu36" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/783-home_default/asics-gel-lyte-3-og-misty-pine-seafoam-.jpg"
+                  alt="ASICS Gel-Lyte III OG &#039;Misty Pine/Seafoam&#039; – Kadomatsu Pack"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/783-large_default/asics-gel-lyte-3-og-misty-pine-seafoam-.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/132-3729-asics-gel-lyte-3-og-misty-pine-seafoam-.html#/68-asics_size-mens_us4_eu36" content="https://sanssneakers.com/home/132-3729-asics-gel-lyte-3-og-misty-pine-seafoam-.html#/68-asics_size-mens_us4_eu36">ASICS Gel Lyte 3 OG &#039;Misty...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $120.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="132" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="209" data-id-product-attribute="5840">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/209-5840-air-jordan-4-retro-military-black-.html#/1-nike_size-mens_us6_eu385" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/1250-home_default/air-jordan-4-retro-military-black-.jpg"
+                  alt="Air Jordan 4 Retro &#039;Military Black&#039; – Clean &amp; Classic Sneaker"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/1250-large_default/air-jordan-4-retro-military-black-.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/209-5840-air-jordan-4-retro-military-black-.html#/1-nike_size-mens_us6_eu385" content="https://sanssneakers.com/home/209-5840-air-jordan-4-retro-military-black-.html#/1-nike_size-mens_us6_eu385">Air jordan 4 Retro...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $150.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="209" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="45" data-id-product-attribute="1041">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/45-1041-nike-kobe-protro-6-think-pink-.html#/1-nike_size-mens_us6_eu385" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/266-home_default/nike-kobe-protro-6-think-pink-.jpg"
+                  alt="Nike Kobe 6 Protro &quot;Think Pink&quot; - Breast Cancer Awareness Tribute Sneaker"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/266-large_default/nike-kobe-protro-6-think-pink-.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/45-1041-nike-kobe-protro-6-think-pink-.html#/1-nike_size-mens_us6_eu385" content="https://sanssneakers.com/home/45-1041-nike-kobe-protro-6-think-pink-.html#/1-nike_size-mens_us6_eu385">Nike Kobe Protro 6 &#039;Think...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $180.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="45" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="214" data-id-product-attribute="5970">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/214-5970-air-jordan-4-retro-lightning-.html#/1-nike_size-mens_us6_eu385" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/1279-home_default/air-jordan-4-retro-lightning-.jpg"
+                  alt="Air Jordan 4 Retro &#039;Lightning&#039; – Iconic Tour Yellow Sneaker"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/1279-large_default/air-jordan-4-retro-lightning-.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/214-5970-air-jordan-4-retro-lightning-.html#/1-nike_size-mens_us6_eu385" content="https://sanssneakers.com/home/214-5970-air-jordan-4-retro-lightning-.html#/1-nike_size-mens_us6_eu385">Air Jordan 4 Retro &#039;Lightning&#039;</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $150.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="214" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="25" data-id-product-attribute="521">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/25-521--nike-zoom-kobe-5-chaos-.html#/1-nike_size-mens_us6_eu385" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/151-home_default/-nike-zoom-kobe-5-chaos-.jpg"
+                  alt="Nike Zoom Kobe 5 Chaos - Iconic Basketball Sneakers Inspired by the Joker"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/151-large_default/-nike-zoom-kobe-5-chaos-.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/25-521--nike-zoom-kobe-5-chaos-.html#/1-nike_size-mens_us6_eu385" content="https://sanssneakers.com/home/25-521--nike-zoom-kobe-5-chaos-.html#/1-nike_size-mens_us6_eu385">Nike Zoom Kobe 5 &#039;Chaos&#039;</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $180.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="25" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="165" data-id-product-attribute="4540">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/165-4540-air-jordan-6-unc-black-university-blue.html#/1-nike_size-mens_us6_eu385" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/980-home_default/air-jordan-6-unc-black-university-blue.jpg"
+                  alt="Air Jordan 6 Retro &#039;UNC&#039; | Tribute to University of North Carolina"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/980-large_default/air-jordan-6-unc-black-university-blue.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/165-4540-air-jordan-6-unc-black-university-blue.html#/1-nike_size-mens_us6_eu385" content="https://sanssneakers.com/home/165-4540-air-jordan-6-unc-black-university-blue.html#/1-nike_size-mens_us6_eu385">Air Jordan 6 “UNC”...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $170.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="165" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="91" data-id-product-attribute="2364">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/91-2364-asics-gel-sonoma-cn-cream-brown-.html#/68-asics_size-mens_us4_eu36" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/542-home_default/asics-gel-sonoma-cn-cream-brown-.jpg"
+                  alt="ASICS Gel-Sonoma CN &#039;Cream Brown&#039; – Premium Trail Running Sneaker for Comfort and Style"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/542-large_default/asics-gel-sonoma-cn-cream-brown-.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/91-2364-asics-gel-sonoma-cn-cream-brown-.html#/68-asics_size-mens_us4_eu36" content="https://sanssneakers.com/home/91-2364-asics-gel-sonoma-cn-cream-brown-.html#/68-asics_size-mens_us4_eu36">ASICS Gel-Sonoma CN &#039;Cream...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $140.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="91" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="157" data-id-product-attribute="4722">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/157-4722-paris-saint-germain-x-air-jordan-5-retro-low-paname-.html#/1-nike_size-mens_us6_eu385" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/932-home_default/paris-saint-germain-x-air-jordan-5-retro-low-paname-.jpg"
+                  alt="Paris Saint-Germain x Air Jordan 5 Retro Low &#039;Paname&#039; | Exclusive Collaboration"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/932-large_default/paris-saint-germain-x-air-jordan-5-retro-low-paname-.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/157-4722-paris-saint-germain-x-air-jordan-5-retro-low-paname-.html#/1-nike_size-mens_us6_eu385" content="https://sanssneakers.com/home/157-4722-paris-saint-germain-x-air-jordan-5-retro-low-paname-.html#/1-nike_size-mens_us6_eu385">Paris Saint-Germain x Air...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $180.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="157" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="208" data-id-product-attribute="5814">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/208-5814-air-jordan-4-retro-zen-master-.html#/1-nike_size-mens_us6_eu385" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/1240-home_default/air-jordan-4-retro-zen-master-.jpg"
+                  alt="Air Jordan 4 Retro &#039;Zen Master&#039; – Cosmic-Inspired Classic"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/1240-large_default/air-jordan-4-retro-zen-master-.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/208-5814-air-jordan-4-retro-zen-master-.html#/1-nike_size-mens_us6_eu385" content="https://sanssneakers.com/home/208-5814-air-jordan-4-retro-zen-master-.html#/1-nike_size-mens_us6_eu385">Air Jordan 4 Retro &#039;Zen...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $145.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="208" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="204" data-id-product-attribute="5710">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/204-5710-a-ma-maniere-x-air-jordan-3-retro-while-you-were-sleeping.html#/1-nike_size-mens_us6_eu385" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/1219-home_default/a-ma-maniere-x-air-jordan-3-retro-while-you-were-sleeping.jpg"
+                  alt="A Ma Maniére x Air Jordan 3 Retro &#039;While You Were Sleeping&#039; – Luxury Sneaker Classic"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/1219-large_default/a-ma-maniere-x-air-jordan-3-retro-while-you-were-sleeping.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/204-5710-a-ma-maniere-x-air-jordan-3-retro-while-you-were-sleeping.html#/1-nike_size-mens_us6_eu385" content="https://sanssneakers.com/home/204-5710-a-ma-maniere-x-air-jordan-3-retro-while-you-were-sleeping.html#/1-nike_size-mens_us6_eu385">A Ma Maniére x Air Jordan 3...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $150.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="204" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="147" data-id-product-attribute="4254">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/147-4254-nike-air-jordan-5-retro-og-grape.html#/1-nike_size-mens_us6_eu385" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/869-home_default/nike-air-jordan-5-retro-og-grape.jpg"
+                  alt="Nike Air Jordan 5 Retro OG &quot;Grape&quot; | Iconic Sneaker Heritage"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/869-large_default/nike-air-jordan-5-retro-og-grape.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/147-4254-nike-air-jordan-5-retro-og-grape.html#/1-nike_size-mens_us6_eu385" content="https://sanssneakers.com/home/147-4254-nike-air-jordan-5-retro-og-grape.html#/1-nike_size-mens_us6_eu385">Nike Air Jordan 5 Retro OG...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $180.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="147" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="194" data-id-product-attribute="5450">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/194-5450-air-jordan-4-retro-fear-.html#/1-nike_size-mens_us6_eu385" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/1159-home_default/air-jordan-4-retro-fear-.jpg"
+                  alt="Air Jordan 4 Retro &#039;Fear&#039; – Dark &amp; Bold Classic"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/1159-large_default/air-jordan-4-retro-fear-.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/194-5450-air-jordan-4-retro-fear-.html#/1-nike_size-mens_us6_eu385" content="https://sanssneakers.com/home/194-5450-air-jordan-4-retro-fear-.html#/1-nike_size-mens_us6_eu385">Air Jordan 4 Retro &#039;Fear&#039;</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $150.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="194" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+                    <li class="product-flag new">New</li>
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+            
+<div class="js-product product col-xs-12 col-sm-6 col-lg-4 col-xl-3">
+  <article class="product-miniature js-product-miniature" data-id-product="77" data-id-product-attribute="1895">
+    <div class="thumbnail-container">
+      <div class="thumbnail-top">
+        
+                      <a href="https://sanssneakers.com/home/77-1895-adidas-x-gucci-gazelle-white-green-red-.html#/27-adidas_size-mens_us4_eu36" class="thumbnail product-thumbnail">
+              <picture>
+                                                <img
+                  src="https://sanssneakers.com/462-home_default/adidas-x-gucci-gazelle-white-green-red-.jpg"
+                  alt="Adidas x Gucci Gazelle &#039;White Green Red&#039; - Luxury Streetwear Sneakers"
+                  loading="lazy"
+                  data-full-size-image-url="https://sanssneakers.com/462-large_default/adidas-x-gucci-gazelle-white-green-red-.jpg"
+                  width="250"
+                  height="250"
+                />
+              </picture>
+            </a>
+                  
+
+        <div class="highlighted-informations no-variants">
+          
+            <a class="quick-view js-quick-view" href="#" data-link-action="quickview">
+              <i class="material-icons search">&#xE8B6;</i> Quick view
+            </a>
+          
+
+          
+                      
+        </div>
+      </div>
+
+      <div class="product-description">
+        
+                      <h2 class="h3 product-title"><a href="https://sanssneakers.com/home/77-1895-adidas-x-gucci-gazelle-white-green-red-.html#/27-adidas_size-mens_us4_eu36" content="https://sanssneakers.com/home/77-1895-adidas-x-gucci-gazelle-white-green-red-.html#/27-adidas_size-mens_us4_eu36">Adidas x Gucci Gazelle...</a></h2>
+                  
+
+        
+                      <div class="product-price-and-shipping">
+              
+              
+
+              <span class="price" aria-label="Price">
+                                                  $160.00
+                              </span>
+
+              
+
+              
+            </div>
+                  
+
+        
+          
+<div class="product-list-reviews" data-id="77" data-url="https://sanssneakers.com/module/productcomments/CommentGrade">
+  <div class="grade-stars small-stars"></div>
+  <div class="comments-nb"></div>
+</div>
+
+        
+      </div>
+
+      
+    <ul class="product-flags js-product-flags">
+            </ul>
+
+    </div>
+  </article>
+</div>
+
+    </div>
+</section>
+<?php }
+}
