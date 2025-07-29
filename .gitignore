@@ -1,0 +1,16 @@
+prestashop_8.1.7.zip
+# File backup atau restore
+*.sql
+*.zip
+*.tar.gz
+*.tar
+
+# File log
+*.log
+
+# File sistem editor/IDE
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.idea/
+.vscode/
